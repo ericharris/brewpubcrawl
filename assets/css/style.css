@@ -107,11 +107,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #00b3fe;
+	color: #DFCE1C;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #00b3fe;
+	color: #DFCE1C;
 	background-color: transparent;
 }
 
@@ -142,8 +142,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #00b3fe;
-  border-color: #00b3fe;
+  background-color: #DFCE1C;
+  border-color: #DFCE1C;
 }
 
 .dmbutton:hover,
@@ -205,7 +205,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #00b3fe;
+	background-color: #DFCE1C;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
@@ -233,7 +233,7 @@ a:focus {
 }
 
 #service i {
-	color: #00b3fe;
+	color: #DFCE1C;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -281,7 +281,7 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#00b3fe;
+	background-color:#DFCE1C;
 	background-color:rgba(0,179,254,.9);
 	text-align:center;
 }
@@ -354,7 +354,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
+	color: #DFCE1C
 }
 
 /*	################################################################
@@ -363,7 +363,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #00b3fe;
+	background: #DFCE1C;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -376,7 +376,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #00b3fe;
+	color: #DFCE1C;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -396,7 +396,7 @@ csmall2 {
 }
 
 .badge-theme {
-	background: #00b3fe;
+	background: #DFCE1C;
 }
 
 /* Contact Page */
